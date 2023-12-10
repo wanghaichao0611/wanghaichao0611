@@ -6,9 +6,9 @@
 - :mailbox_with_no_mail: 949234299@qq.com
 - 😄 擅长: Java
 - ⚡ 熟练: C++ Python JavaScript
-- Read more about my CSDN  [默默无闻的程序员](https://blog.csdn.net/CXY_Stole?type=blog)
+-  Read more about my CSDN  [默默无闻的程序员](https://blog.csdn.net/CXY_Stole?type=blog)
 
-### My Skill Set
+### My Skill List
 
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
