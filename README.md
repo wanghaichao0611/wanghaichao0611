@@ -1,7 +1,6 @@
-<h1 align="center"> 你好👋 欢迎来到 汪海潮 个人Github仓库</h1>
+<h1 align="center"> Welcome👋 to 汪海潮 personal Github</h1>
 
-
-这有关于我的一些介绍:
+<h3 align="center">Graduated from Zhengzhou University in 2020</h3>
 
 - :penguin: 949234299
 - :mailbox_with_no_mail: 949234299@qq.com
