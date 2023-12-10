@@ -3,9 +3,11 @@
 
 这有关于我的一些介绍:
 
+- :penguin: 949234299
+- :mailbox_with_no_mail: 949234299@qq.com
 - 😄 擅长: Java
 - ⚡ 熟练: C++ Python JavaScript
-- :mailbox_with_no_mail: 949234299@qq.com
+- Read more about my CSDN: [默默无闻的程序员](https://blog.csdn.net/CXY_Stole?type=blog)
 
 <br/>
 ​<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanghaichao0611">
