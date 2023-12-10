@@ -5,6 +5,7 @@
 
 - 😄 擅长: Java
 - ⚡ 熟练: C++ Python JavaScript
+- :mailbox_with_no_mail: 949234299@qq.com
 
 <br/>
 ​<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanghaichao0611">
