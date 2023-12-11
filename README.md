@@ -21,10 +21,11 @@
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanghaichao0611&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
 <br>
+<h3>About me</h3>
 <ul align="left">
  <li>:penguin: 949234299</li>
  <li>📫 How to reach me 949234299@qq.com</li>
- <li>💬 Ask me about ['Java','Python','JavaScript']</li>
+ <li>💬 Ask me about Java  Python  JavaScript</li>
  <li>🔭 I’m currently working in Zhengzhou, Henan Province, China</li>
  <li>Read more about my CSDN  <a href="https://blog.csdn.net/CXY_Stole?type=blog" target="_blank">默默无闻的程序员</a></li>
 </rl>
