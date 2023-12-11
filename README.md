@@ -25,7 +25,7 @@
  <li>📫 How to reach me 949234299@qq.com</li>
  <li>💬 Ask me about Java  Python  JavaScript</li>
  <li>🔭 I’m currently working in Zhengzhou, Henan Province, China</li>
- <li>Read more about my CSDN  <a href="https://blog.csdn.net/CXY_Stole?type=blog" target="_blank">默默无闻的程序员</a></li>
+ <li>📝 Read more about my CSDN  <a href="https://blog.csdn.net/CXY_Stole?type=blog" target="_blank">默默无闻的程序员</a></li>
 </ul>
 
 <br>
