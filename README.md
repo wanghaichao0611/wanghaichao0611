@@ -10,7 +10,7 @@
 
 <br>
 
-<ul align="left">
+<ul align="center">
  <li>- 🔭 I’m currently working in Zhengzhou, Henan Province, China</li>
  <li>- 💬 Ask me about Java,Python,JavaScript</li>
  <li>- :penguin: 949234299</li>
