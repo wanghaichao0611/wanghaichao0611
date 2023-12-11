@@ -15,7 +15,7 @@
  <li>- 💬 Ask me about Java,Python,JavaScript</li>
  <li>- :penguin: 949234299</li>
  <li>- 📫 How to reach me 949234299@qq.com</li>
- <li>-  Read more about my CSDN  [默默无闻的程序员](https://blog.csdn.net/CXY_Stole?type=blog)</li>
+ <li>-  Read more about my CSDN  <a href="https://blog.csdn.net/CXY_Stole?type=blog" target="_blank">默默无闻的程序员</a></li>
 </rl>
   
 <br>
