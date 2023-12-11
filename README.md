@@ -20,7 +20,7 @@
 <br>
 <h3 align="center">Some personal introductions about me</h3>
 <br>
-<ul align="center" style="list-style: none;">
+<ul align="center">
  <li>:penguin: 949234299</li>
  <li>📫 How to reach me 949234299@qq.com</li>
  <li>💬 Ask me about Java  Python  JavaScript</li>
