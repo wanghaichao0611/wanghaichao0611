@@ -5,7 +5,7 @@
   <!-- CSDN徽章 -->
  <a href="https://blog.csdn.net/CXY_Stole?type=blog" target="_blank"><img src="https://img.shields.io/badge/CSDN-%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-yellow"></a>
 </p>
-<h3 align="center">A passionate developer from China, which graduated from Zhengzhou University in 2020</h3>
+<h3 align="center">Passionate development engineer from China, graduated from Zhengzhou University in 2020</h3>
 
 <br>
 <div align="center">
